@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App (Snapshot) App renders Digital Clock 1`] = `
+<div
+  className="App"
+>
+  <nav
+    className="navBar"
+  >
+    <ul>
+      <li>
+        <a
+          aria-current="page"
+          className="active"
+          href="/"
+          onClick={[Function]}
+          style={Object {}}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          aria-current={null}
+          href="/projects/"
+          onClick={[Function]}
+        >
+          Projects
+        </a>
+      </li>
+      <li>
+        <a
+          aria-current={null}
+          href="/services/"
+          onClick={[Function]}
+        >
+          Services
+        </a>
+      </li>
+      <li>
+        <a
+          aria-current={null}
+          href="/contact/"
+          onClick={[Function]}
+        >
+          Contact
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div>
+    <h1>
+      You chose Home
+    </h1>
+  </div>
+</div>
+`;
